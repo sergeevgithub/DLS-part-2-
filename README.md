@@ -1,2 +1,2 @@
-## В этом репозитории собраны ноутбуки с семинарами домашними заданиями и семинарами открытых курсов по NLP
+## В этом репозитории собраны ноутбуки с домашними заданиями и семинарами открытых курсов по NLP
 1. [Deep Learning (semester 2), Natural Language Processing (NLP)](https://github.com/sergeevgithub/NLP/tree/main/DLS)
